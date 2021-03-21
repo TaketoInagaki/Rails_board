@@ -227,7 +227,7 @@ DEPENDENCIES
   kaminari
   listen (~> 3.0.5)
   mini_racer
-  mysql2 (>= 0.3.18, < 0.5)
+  mysql2 (= 0.4.10)
   pry-byebug
   puma (~> 3.0)
   rails (= 5.2.2)
